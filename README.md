@@ -13,5 +13,21 @@ Classification is a supervised learning technique in which the model function cl
 
 Classification is different from clustering because clustering is an unsupervised technique where it is all about pattern discovery on its own. The main focus in clustering is to group similar instances together based on their features. This type of machine learning needs no supervision as the input data has no references or labels for the algorithm to learn, enabling it to learn on its own and group the data.
 
+### Importing the Data
+
+<img src="img/1.jpg?raw=true"/>
+
+#### Setting model role for target variable ORGYN
+
+<img src="img/2.jpg?raw=true"/>
+
+#### Distribution of ORGYN:
+
+<img src="img/3.jpg?raw=true"/>
+
+Proportions: 
+Total: 22,223
+Individuals who did not purchase organic products: 16718 => 75.23%
+Individuals who purchased organic products: 5505 => 24.77%
 
 
