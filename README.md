@@ -15,15 +15,15 @@ Classification is different from clustering because clustering is an unsupervise
 
 ### Importing the Data
 
-<img src="img/1.jpg?raw=true"/>
+<img src="img/1.png?raw=true"/>
 
 #### Setting model role for target variable ORGYN
 
-<img src="img/2.jpg?raw=true"/>
+<img src="img/2.png?raw=true"/>
 
 #### Distribution of ORGYN:
 
-<img src="img/3.jpg?raw=true"/>
+<img src="img/3.png?raw=true"/>
 
 Proportions: 
 Total: 22,223
