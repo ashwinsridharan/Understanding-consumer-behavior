@@ -22,7 +22,7 @@ Importing the Dataset
 
 <img src="img/2.png?raw=true"/>
 
-### Distribution of ORGYN:
+#### Distribution of ORGYN:
 
 <img src="img/3.png?raw=true"/>
 
@@ -66,7 +66,7 @@ Number of leaves in the pruned tree: 25
 <img src="img/9.png?raw=true"/>
 
 ### Results
-Information gain <br>
+Information gain: <br>
 Information gain is the reduction of entropy which measures how noisy a set of data is. <br>
 For a decision tree, information gain gives the worth of the variable i.e. how much information gain is achieved by splitting the node in a decision tree. When we are splitting a decision tree, we would be interested to know how much of information gain is achieved by splitting on that variable as higher the information gain, better the split as it is closer to purity. 
 
@@ -78,6 +78,7 @@ The competing splits for the first split were: AFFL, GENDER, BILL and CLASS. But
 #### Predictions
 The variables that were important for growing this tree are: AGE, AFFL & GENDER <br>
 Therefore, the most important interpretation for the supermarket manager is that these three variables are the best predictors whether the customer would buy the organic products or not. <br>
+
 These 3 variables out of all the other variables used as inputs in the model best determine our outcome variable ORGYNS to identify whether the customers would be purchasing organic products. So, the manager could make better decisions like: <br>
 1. Giving better offers to customers while having these 3 parameters in mind <br>
 2. Placing items in a more accessible and eye-catching way to a particular segment, for example happy hours for men/ women <br>
