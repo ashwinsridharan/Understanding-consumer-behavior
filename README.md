@@ -80,7 +80,7 @@ The variables that were important for growing this tree are: AGE, AFFL & GENDER 
 Therefore, the most important interpretation for the supermarket manager is that these three variables are the best predictors whether the customer would buy the organic products or not. <br>
 These 3 variables out of all the other variables used as inputs in the model best determine our outcome variable ORGYNS to identify whether the customers would be purchasing organic products. So, the manager could make better decisions like: <br>
 1. Giving better offers to customers while having these 3 parameters in mind <br>
-2. Placing items in a more accessible and eye-catching way to a particular segment <br>
+2. Placing items in a more accessible and eye-catching way to a particular segment, for example happy hours for men/ women <br>
 3. Special targeted promotions based on the 3 parameters to offer an overall customized shopping experience
 
 
